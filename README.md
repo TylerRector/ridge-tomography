@@ -1,6 +1,6 @@
 # Ridge-tomography
 
-EExplores how Wang–Zahl’s Kakeya geometry can inform structural reconstruction for sparse-angle tomography. Develops and tests reconstruction principles aimed at preserving curved biological features and true vessel endpoints.
+Explores how Wang–Zahl’s Kakeya geometry can inform structural reconstruction for sparse-angle tomography. Develops and tests reconstruction principles aimed at preserving curved biological features and true vessel endpoints.
 
 ## Charts
 
