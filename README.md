@@ -29,7 +29,7 @@ Wang and Zahl supply the global tube-union volume estimate motivating the struct
 
 ## Data
 
-The retinal image is Mikael Häggström, “Medical gallery of Mikael Häggström 2014,” *WikiJournal of Medicine* 1(2), 2014, doi:10.15347/wjm/2014.008. The copy distributed through `skimage.data.retina` is CC0.
+Mikael Häggström, “Medical gallery of Mikael Häggström 2014,” *WikiJournal of Medicine* 1, no. 2 (2014), https://doi.org/10.15347/wjm/2014.008. The retinal image used to reproduce these results is retrieved at runtime through `skimage.data.retina`; this repository does not redistribute the image or any derived image data. The upstream copy provided by scikit-image is designated CC0.
 
 Hong Wang and Joshua Zahl, “Volume estimates for unions of convex sets, and the Kakeya set conjecture in three dimensions,” arXiv:2502.17655, 2025.
 
