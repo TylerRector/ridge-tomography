@@ -1,0 +1,63 @@
+{
+  "target_psnr_db": 16.01,
+  "seed": 20260802,
+  "angles_deg": [
+    2,
+    7,
+    11,
+    44,
+    46,
+    50,
+    61,
+    64,
+    84,
+    85,
+    90,
+    101,
+    108,
+    113,
+    128,
+    134,
+    157,
+    163
+  ],
+  "sart_sweeps": 200,
+  "sart_relaxation": 0.15,
+  "gaussian_sigma": 0.7,
+  "methods": [
+    {
+      "method": "Weighted FBP",
+      "mean_psnr_db": 17.7728061133917,
+      "mean_ssim": 0.43873616695915646,
+      "pooled_rmse": 0.13180190114877188,
+      "mean_false_support_area_px": 1361.25,
+      "mean_false_skeleton_length_px": 501.25,
+      "endpoint_probe_count": 8,
+      "mean_endpoint_overrun_px": 8.625,
+      "median_endpoint_overrun_px": 9.5,
+      "mean_endpoint_excess_mass": 0.7717144111306303,
+      "curved_branch_probe_count": 25,
+      "weighted_curve_localization_rmse_px": 1.3383172548380562,
+      "weighted_tangent_mae_deg": 16.501845688710034,
+      "median_bend_correlation": 0.4137973093433245,
+      "weighted_bend_nrmse": 1.373858598894746
+    },
+    {
+      "method": "Iterative curve-endpoint",
+      "mean_psnr_db": 23.742651919615533,
+      "mean_ssim": 0.7103531394296336,
+      "pooled_rmse": 0.06707464411931525,
+      "mean_false_support_area_px": 28.5,
+      "mean_false_skeleton_length_px": 20.25,
+      "endpoint_probe_count": 8,
+      "mean_endpoint_overrun_px": 1.875,
+      "median_endpoint_overrun_px": 0.0,
+      "mean_endpoint_excess_mass": 0.1720293240581665,
+      "curved_branch_probe_count": 25,
+      "weighted_curve_localization_rmse_px": 0.9154256208168304,
+      "weighted_tangent_mae_deg": 12.24424712861843,
+      "median_bend_correlation": 0.6931884113654797,
+      "weighted_bend_nrmse": 1.2012945720432588
+    }
+  ]
+}

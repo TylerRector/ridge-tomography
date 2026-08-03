@@ -1,0 +1,17 @@
+method,crop_id,probe_id,overrun_length_px,excess_continuation_mass
+Weighted FBP,2,0,6.0,0.4358917417409373
+Weighted FBP,2,1,17.0,1.101251493008537
+Weighted FBP,2,2,0.0,0.11203129977722248
+Weighted FBP,3,0,0.0,0.27341631780843756
+Weighted FBP,3,1,18.0,1.7647644724775968
+Weighted FBP,3,2,13.0,1.437403408486304
+Weighted FBP,3,3,0.0,0.4705532984118451
+Weighted FBP,4,0,15.0,0.5784032573341613
+Iterative curve-endpoint,2,0,0.0,0.07215055690539073
+Iterative curve-endpoint,2,1,0.0,0.1069695690395337
+Iterative curve-endpoint,2,2,0.0,0.061921751249247786
+Iterative curve-endpoint,3,0,0.0,0.07593175259294618
+Iterative curve-endpoint,3,1,0.0,0.3894699874548066
+Iterative curve-endpoint,3,2,0.0,0.38900536827473503
+Iterative curve-endpoint,3,3,0.0,0.08569726494502537
+Iterative curve-endpoint,4,0,15.0,0.19508834200364655
